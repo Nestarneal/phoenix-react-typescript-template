@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./ui/src",
+    "sourceMap": true,
+    "target": "es5",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
+  }
+}
